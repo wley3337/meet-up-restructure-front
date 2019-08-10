@@ -1,0 +1,9 @@
+
+
+
+These will still be 'findable' I don't know of steps to reduce exposure as of yet
+
+
+REACT_APP_MEETUP_CONSUMER_KEY="******* Your KEY Here *******"
+REACT_APP_MEETUP_CONSUMER_REDIRECT_URI="******* Your REDIRECT URL Here *****"
+REACT_APP_BACKEND_BASE_URL = "**** BACK END URL ****"
